@@ -84,7 +84,7 @@ p {
 
 a {
   font-family: 'Gteestiprotext book', sans-serif;
-  color: #fff;
+  color: #d6e100;
   text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ a {
   margin-top: 50px;
   padding-bottom: 50px;
   clear: left;
-  font-family: Stratum1;
+  font-family: 'Gteestiprotext book', sans-serif;
   color: #d6e100;
   font-size: 2em;
 }
@@ -132,7 +132,7 @@ a {
 .heading {
   padding-top: 30px;
   padding-bottom: 30px;
-  font-family: Stratum1;
+  font-family: 'Gteestiprotext book', sans-serif;
   color: #fff;
   font-size: 3.8em;
 }
@@ -257,7 +257,7 @@ a {
 }
 
 .heading-6 {
-  font-family: Montserrat, sans-serif;
+  font-family: 'Gteestiprotext book', sans-serif;
 }
 
 .main-nav {
@@ -268,7 +268,7 @@ a {
   overflow: hidden;
   max-width: 100%;
   background-color: #6c75e1;
-  font-family: Montserrat, sans-serif;
+  font-family: 'Gteestiprotext book', sans-serif;
   color: #fff;
   font-size: 1.4em;
   line-height: 1.4em;
